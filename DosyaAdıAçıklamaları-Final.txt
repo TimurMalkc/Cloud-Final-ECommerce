@@ -1,4 +1,5 @@
 CloudFinal_22290719.pdf final açıklama dokümanı.
+CloudTümProjeler_22290719 ekampüse yüklediğim tüm projeleri barındıran doküman.
 Açıklama videosu linki README'de.
 .idea ve virtual kütüphanelerden eklenen klasörler, içlerinde benim yaptığım bir şey yok.
 ecommerce klasörünün içindeki ecommerce klasöründe django ayarlarını yaptığım settings.py ve urls.py var.
