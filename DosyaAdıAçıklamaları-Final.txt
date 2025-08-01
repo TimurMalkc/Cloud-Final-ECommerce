@@ -1,8 +1,0 @@
-CloudFinal_22290719.pdf final açıklama dokümanı.
-CloudTümProjeler_22290719.pdf ekampüse yüklediğim tüm projeleri barındıran doküman.
-Açıklama videosu linki README'de.
-.idea ve virtual kütüphanelerden eklenen klasörler, içlerinde benim yaptığım bir şey yok.
-ecommerce klasörünün içindeki ecommerce klasöründe django ayarlarını yaptığım settings.py ve urls.py var.
-ecommerce klasörünün içindeki storeapp klasöründe templates ve static klasörleri var.
-templates, hazır server template'inin html dosyasını tutuyor.
-static, html dosyasının erişmesi gereken css, js ve images klasörlerini tutuyor. bu klasörlerde de hazır css, js ve görsel dosyaları var.
