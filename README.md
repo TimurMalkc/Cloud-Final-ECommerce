@@ -1,6 +1,6 @@
 # Google Cloud Ecomm
 
-Final project for my Cloud Computing class. The objective of the project was being able to run a dynamic website with backend on a cloud server. The html-css-js code is taken from a template website and doesn't belong to me.
+Final project for my Cloud Computing class. The objective of the project was being able to run a dynamic website with backend on a cloud server. The HTML-CSS-JavaScript code is taken from a template website and doesn't belong to me.
 
 **Tech Used:** Python 3.10.11, Python Django, Google Cloud, MySQL, HTML-CSS-JavaScript
 
